@@ -16,7 +16,7 @@ def CountOddNumbers(in_lst):
             count += 1
     return count
 
-def task2():
+def Proc24():
     """
     Input data, call function for counting odd numbers
     output results.
@@ -28,5 +28,5 @@ def task2():
     odd_count = CountOddNumbers(in_data)
     print("Count of odd numbers: ", odd_count)
 
-# Call the task2 function to execute the program
-task2()
+# Виклик функції Proc24 для виконання програми
+Proc24()
